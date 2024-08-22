@@ -1,13 +1,16 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+// import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import MyCalc from './day0820/MyCalc';
+import Gawibawibo from './day0822/Gawibawibo';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
   <React.StrictMode>
-    <App />
+    {/* <App /> */}
+    {/* <MyCalc /> */}
+    <Gawibawibo />
   </React.StrictMode>
 );
 

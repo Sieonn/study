@@ -1,0 +1,21 @@
+.btn,
+.sel {
+  padding: 10px;
+  margin: 0 5px;
+  border-radius: 3px;
+  border: 2px solid #ccc;
+  border: none;
+  /* color: white; */
+  font-weight: 700;
+  font-size: 14px;
+  background-color: #c4c4c4;
+  /* box-shadow: 0 0 10px #606060; */
+  cursor: pointer;
+}
+.bnt:focus,
+.sel:focus {
+  outline: none;
+}
+*:focus {
+  outline: none;
+}
