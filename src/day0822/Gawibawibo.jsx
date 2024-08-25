@@ -105,7 +105,7 @@ function GawibawiboInput() {
         </button>
         <button value="보" onClick={handleClick}>
           보
-        </button>
+        </button>                                                                           j
       </Buttons>
       <p>가위, 바위, 보 하나만 선택하세요.</p>
     </InputB>
